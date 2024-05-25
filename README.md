@@ -1,6 +1,9 @@
 # ELECTRONIC RECORD BOOK
 Development of an electronic record book using web technologies. In this project, the Java programming language and its Spring Boot framework are used as the basis for the backend.
 
+# MOCK UPS
+https://www.figma.com/design/ttHCllmT6w5MnZZSSHEBGO/SpringProject?node-id=0-1&t=2NlghgHpzoWRu8TR-1
+
 # FUNCTIONAL REQUIREMENTS
 As a student, I want to be able to register using the organization's email.
 As a student, I want to be able to log in with my email and password.
