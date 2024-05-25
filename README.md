@@ -1,7 +1,7 @@
 # ELECTRONIC RECORD BOOK
 Development of an electronic record book using web technologies. In this project, the Java programming language and its Spring Boot framework are used as the basis for the backend.
 
-# TECHNICAL REQUIREMENTS
+# FUNCTIONAL REQUIREMENTS
 As a student, I want to be able to register using the organization's email.
 As a student, I want to be able to log in with my email and password.
 As a student, I want to be able to view my grades from different semesters.
